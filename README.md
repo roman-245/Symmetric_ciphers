@@ -96,4 +96,6 @@
 2. Реализуйте алгоритм цепочки блоков (Cipher block chaining)
 3.  (*) Реализуйте сеть Фейстеля
 
+Решения в файлах - OTP_cipher.py и block cipher.py
+
 <!-- Docs to Markdown version 1.0β17 -->
