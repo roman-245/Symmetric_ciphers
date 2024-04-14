@@ -18,6 +18,7 @@
 Реализация в файлах - cesar2.py, cesarfile.py, Vernam cipher.py
 
 Вывод в терминале:
+
 ![alt_text](1.PNG "result")
 
 ### Методические указания
